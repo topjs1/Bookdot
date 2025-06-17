@@ -57,7 +57,7 @@ Book dot - 익명 일기 플랫폼
   - Navigation Component - 화면 간 네비게이션 관리
 
   아키텍처 구조
-
+```
   com.bookdot.app/
   ├── data/
   │   ├── firebase/
@@ -77,7 +77,7 @@ Book dot - 익명 일기 플랫폼
   │   └── viewmodel/          # ViewModel 클래스
   ├── di/                     # 의존성 주입 모듈
   └── security/               # 익명성 보장 보안 유틸리티
-
+```
   데이터 플로우
 
   1. 익명 일기 작성 → ViewModel에서 이벤트 처리
