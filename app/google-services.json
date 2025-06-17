@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746249694558",
+    "project_id": "bookdot-29e9f",
+    "storage_bucket": "bookdot-29e9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746249694558:android:21114be7865403499bf3cf",
+        "android_client_info": {
+          "package_name": "com.bookdot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlan9VJoTz3aZ1ZZytT3QOEYrIuemHB1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
